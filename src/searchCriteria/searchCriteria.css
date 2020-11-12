@@ -1,0 +1,12 @@
+form {
+    text-align: center;
+}
+
+.group-search {
+    display: flex; 
+    justify-content: center;
+}
+
+.item-search {
+    padding-right: 10px;
+}

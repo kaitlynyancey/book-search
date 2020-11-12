@@ -1,0 +1,11 @@
+ul {
+    list-style-type: none;
+}
+
+.results-summary {
+    padding-top: 30px;
+}
+
+li {
+    padding-bottom: 40px;
+}

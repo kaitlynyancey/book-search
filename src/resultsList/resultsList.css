@@ -1,0 +1,18 @@
+.group{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.item{
+    padding-right: 40px;
+}
+
+hr{
+    border-top: 1px solid lightgray;
+}
+
+
+
